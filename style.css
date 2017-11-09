@@ -1,0 +1,26 @@
+img {
+  width: 50%;
+}
+
+h1 {
+  color: blue;
+  margin: 10px;
+}
+
+
+li{
+  list-style-type: circle;
+  color: red;
+}
+
+span {
+  color: green;
+}
+
+.middleItem{
+  color: rebeccapurple;
+}
+
+li {
+  list-style-type: square;
+}
